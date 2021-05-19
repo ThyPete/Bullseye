@@ -75,6 +75,20 @@ img {
 	text-font:center;
 	height:350px;
 }
+.linespace {
+	float: left;
+	width: 10%;
+	padding: 10px;
+	text-font:center;
+	height:10px;
+}
+.line {
+	float: left;
+	width: 80%;
+	padding: 10px;
+	text-font:center;
+	height:10px;
+}
 
 .row:after {
   content: "";
